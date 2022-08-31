@@ -32,7 +32,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img src="images/logo/logo.png" alt=""></a>
+                    <a class="navbar-brand" href="/"><img src="images/logo/logo.png" alt=""></a>
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav social-icons navbar-right hidden-xs">
@@ -142,7 +142,7 @@
                                 style="z-index: 6; min-width: 300px; max-width: 650px; white-space: normal; font-weight:300;">
                             </div>
                             <!-- LAYER NR. 4 -->
-                            <a href="index.html" class="tp-caption NotGeneric-Button rev-btn  rs-parallaxlevel-4 hidden-xs" 
+                            <a href="/" class="tp-caption NotGeneric-Button rev-btn  rs-parallaxlevel-4 hidden-xs" 
                                 id="slide-681-layer-4 smooth" 
                                 data-x="['left','center','center','center']" data-hoffset="['460','-150','-150','-150']" 
                                 data-y="['center','center','center','center']" data-voffset="['80','120','70','70']" 
